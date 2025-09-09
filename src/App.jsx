@@ -66,9 +66,7 @@ function App() {
             </div>
           </div>
         </div>
-      ) : (
-        <p>Loading...</p>
-      )}
+      ) : null}
     </div>
   );
 }
